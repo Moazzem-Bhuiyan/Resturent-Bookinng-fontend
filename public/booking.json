@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/vB73htN/360-F-637166455-RZOHg6-K3-M6no-LPKQm-OHH5-ZI70z-XEy-Daq.jpg",
+      "title": "Sunset Hotel",
+      "location": "Dhaka, Bangladesh",
+      "description": "A luxury hotel offering scenic views and gourmet dining experiences."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/4RzmSJQ/23a11cf1fdfac1e495a452a19c84312d.jpg",
+      "title": "Seaside Inn",
+      "location": "Cox's Bazar, Bangladesh",
+      "description": "Perfect for beach lovers, offering fresh seafood and sea views."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/yRhSZ9S/a466484b66cabb3d07b71786b8eb6026.jpg",
+      "title": "Mountain Retreat",
+      "location": "Sylhet, Bangladesh",
+      "description": "A peaceful escape in the hills with organic food and stunning vistas."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/QMzbRFD/20161008144042-small.webp",
+      "title": "Urban Stay",
+      "location": "Chittagong, Bangladesh",
+      "description": "Modern dining options in a bustling city environment."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/zRWMvHB/retro-restaurant-long-dining-table-600nw-2274343581.webp",
+      "title": "Heritage Hotel",
+      "location": "Rajshahi, Bangladesh",
+      "description": "A classic hotel with traditional architecture and fine dining."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/1zqKZXD/premium-photo-1661883237884-263e8de8869b.jpg",
+      "title": "Lakeside View",
+      "location": "Rangamati, Bangladesh",
+      "description": "Nestled by the lake, offering panoramic views and serene settings."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/yRhSZ9S/a466484b66cabb3d07b71786b8eb6026.jpg",
+      "title": "Tea Garden Resort",
+      "location": "Srimangal, Bangladesh",
+      "description": "Surrounded by lush tea gardens, perfect for nature enthusiasts."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/vB73htN/360-F-637166455-RZOHg6-K3-M6no-LPKQm-OHH5-ZI70z-XEy-Daq.jpg",
+      "title": "Downtown Delight",
+      "location": "Dhaka, Bangladesh",
+      "description": "An urban favorite offering international cuisine and rooftop views."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/4RzmSJQ/23a11cf1fdfac1e495a452a19c84312d.jpg",
+      "title": "Hilltop Haven",
+      "location": "Bandarban, Bangladesh",
+      "description": "A secluded hotel offering breathtaking mountain views and local delicacies."
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/QMzbRFD/20161008144042-small.webp",
+      "title": "Riverfront Lodge",
+      "location": "Khulna, Bangladesh",
+      "description": "Cozy dining by the river, offering fresh local catches."
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/zRWMvHB/retro-restaurant-long-dining-table-600nw-2274343581.webp",
+      "title": "Forest Edge Resort",
+      "location": "Sundarbans, Bangladesh",
+      "description": "Experience the wilderness with luxury dining near the forest."
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/1zqKZXD/premium-photo-1661883237884-263e8de8869b.jpg",
+      "title": "Old Town Boutique",
+      "location": "Barisal, Bangladesh",
+      "description": "A charming boutique hotel offering a fusion of local and international cuisine."
+    }
+  ]
+  

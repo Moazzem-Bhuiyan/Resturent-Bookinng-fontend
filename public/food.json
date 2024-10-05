@@ -1,0 +1,115 @@
+[
+    {
+      "id":1,
+      "img": "https://i.ibb.co.com/FKkQNxp/warm-plate-min.webp",
+      "name": "Classic Burger",
+      "description": "A juicy beef patty with lettuce, tomato, and cheese in a toasted bun.",
+      "price": 8.99
+    },
+    { 
+      
+      "id":2,
+      "img": "https://i.ibb.co.com/YXX3b5R/20150401-notebook-slide-5-UU3-super-Jumbo.jpg",
+      "name": "Margherita Pizza",
+      "description": "A traditional Italian pizza with fresh tomatoes, mozzarella, and basil.",
+      "price": 12.50
+    },
+    {
+      "id":3,
+      "img": "https://i.ibb.co.com/q7yLb8L/grilled-dorade-vernick-fish.webp",
+      "name": "Spaghetti Carbonara",
+      "description": "Creamy spaghetti with pancetta, parmesan, and a hint of garlic.",
+      "price": 10.75
+    },
+    {
+      "id":4,
+      "img": "https://i.ibb.co.com/FKkQNxp/warm-plate-min.webp",
+      "name": "Sushi Platter",
+      "description": "A variety of fresh sushi including nigiri, maki, and sashimi.",
+      "price": 18.99
+    },
+    {
+      "id":5,
+      "img": "https://i.ibb.co.com/gzbXN28/istockphoto-1190330112-612x612.jpg",
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce, croutons, and parmesan tossed in Caesar dressing.",
+      "price": 7.25
+    },
+    {
+      "id":6,
+      "img": "https://i.ibb.co.com/FKkQNxp/warm-plate-min.webp",
+      "name": "Tomato Soup",
+      "description": "A rich and creamy tomato soup with a touch of basil.",
+      "price": 5.50
+    },
+    {
+      "id":7,
+      "img": "https://i.ibb.co.com/q7yLb8L/grilled-dorade-vernick-fish.webp",
+      "name": "Chicken Tacos",
+      "description": "Soft tacos filled with seasoned chicken, lettuce, cheese, and salsa.",
+      "price": 9.00
+    },
+    {
+      "id":8,
+      "img": "https://i.ibb.co.com/FKkQNxp/warm-plate-min.webp",
+      "name": "Butter Chicken",
+      "description": "Tender chicken pieces cooked in a creamy tomato sauce.",
+      "price": 11.99
+    },
+    {
+      "id":9,
+      "img": "https://i.ibb.co.com/q9gJZ4Z/marquee-fall-2019-0006-scaled.webp",
+      "name": "Miso Ramen",
+      "description": "A savory Japanese noodle soup with miso broth, pork, and vegetables.",
+      "price": 13.50
+    },
+    {
+      "id":10,
+      "img": "https://i.ibb.co.com/q9gJZ4Z/marquee-fall-2019-0006-scaled.webp",
+      "name": "Grilled Steak",
+      "description": "A succulent grilled steak served with a side of mashed potatoes.",
+      "price": 19.99
+    },
+    {"id":11,
+      "img": "https://i.ibb.co.com/YXX3b5R/20150401-notebook-slide-5-UU3-super-Jumbo.jpg",
+      "name": "Pork Dumplings",
+      "description": "Steamed dumplings filled with seasoned pork and vegetables.",
+      "price": 8.25
+    },
+    {
+      "id":12,
+      "img": "https://i.ibb.co.com/gzbXN28/istockphoto-1190330112-612x612.jpg",
+      "name": "Seafood Paella",
+      "description": "A Spanish dish with rice, seafood, saffron, and a variety of spices.",
+      "price": 16.75
+    },
+    {
+      "id":13,
+      "img": "https://i.ibb.co.com/FKkQNxp/warm-plate-min.webp",
+      "name": "Vanilla Ice Cream",
+      "description": "Creamy vanilla ice cream topped with a drizzle of chocolate syrup.",
+      "price": 4.50
+    },
+    {
+      "id":14,
+      "img": "https://i.ibb.co.com/q7yLb8L/grilled-dorade-vernick-fish.webp",
+      "name": "Beef Burrito",
+      "description": "A large tortilla filled with seasoned beef, beans, rice, and cheese.",
+      "price": 9.99
+    },
+    {
+      "id":15,
+      "img": "https://i.ibb.co.com/FKkQNxp/warm-plate-min.webp",
+      "name": "Pad Thai",
+      "description": "Stir-fried rice noodles with tofu, peanuts, egg, and a tangy sauce.",
+      "price": 12.00
+    },
+    {
+      "id":16,
+      "img": "https://i.ibb.co.com/q9gJZ4Z/marquee-fall-2019-0006-scaled.webp",
+      "name": "Chocolate Cake",
+      "description": "A rich and moist chocolate cake topped with chocolate ganache.",
+      "price": 6.75
+    }
+  ]
+  
