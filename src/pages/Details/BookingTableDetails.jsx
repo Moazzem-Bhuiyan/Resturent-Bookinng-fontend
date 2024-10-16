@@ -10,7 +10,7 @@ const BookingTableDetails = () => {
 
   return (
     <div className=" container m-auto md:p-10 md:mb-10">
-      <div className="md:w-[60%] rounded-2xl space-y-5 m-auto p-10 shadow-2xl mt-10 mb-10">
+      <div className="md:w-[60%] rounded-2xl space-y-5 m-auto p-10 shadow-xl mt-10 mb-10">
         <img className="w-full" src={data.image} alt="" />
 
         <h1 className="text-2xl font-semibold">{data.title}</h1>
@@ -64,13 +64,13 @@ const BookingTableDetails = () => {
         </span>
         <h1 className="text-2xl my-8 font-semibold">User Feedback</h1>
         {/* ========== */}
-        <div className=" w-[100%] m-auto rounded-xl shadow-2xl">
+        <div className=" w-[100%] m-auto rounded-xl shadow-xl p-20 ">
           <div className="hero-content flex-col lg:flex-row">
             <img
               src="https://i.ibb.co.com/Pgt9bQh/Whats-App-Image-2024-08-14-at-20-33-20-52d82546.jpg"
               className=" rounded-full w-[105px] h-[100px] "
             />
-            <div>
+            <div className="space-y-3">
               <h1 className="text-xl font-bold">Moazzem Bhuiyan</h1> <hr />
               <div className="rating pt-2">
                 <input
@@ -111,13 +111,13 @@ const BookingTableDetails = () => {
         &nbsp;
         &nbsp;
         {/*  */}
-        <div className=" w-[100%] m-auto rounded-xl shadow-2xl">
+        <div className=" w-[100%] m-auto rounded-xl shadow-xl p-20">
           <div className="hero-content flex-col lg:flex-row">
             <img
               src="https://i.ibb.co.com/Pgt9bQh/Whats-App-Image-2024-08-14-at-20-33-20-52d82546.jpg"
               className=" rounded-full w-[105px] h-[100px] "
             />
-            <div>
+            <div className="space-y-3">
               <h1 className="text-xl font-bold">Moazzem Bhuiyan</h1> <hr />
               <div className="rating pt-2">
                 <input
@@ -157,13 +157,13 @@ const BookingTableDetails = () => {
         &nbsp;
         &nbsp;
         {/*  */}
-        <div className=" w-[100%] m-auto rounded-xl shadow-2xl">
+        <div className=" w-[100%] m-auto rounded-xl shadow-xl p-20">
           <div className="hero-content flex-col lg:flex-row">
             <img
               src="https://i.ibb.co.com/Pgt9bQh/Whats-App-Image-2024-08-14-at-20-33-20-52d82546.jpg"
               className=" rounded-full w-[105px] h-[100px] "
             />
-            <div>
+            <div className="space-y-3">
               <h1 className="text-xl font-bold">Moazzem Bhuiyan</h1> <hr />
               <div className="rating pt-2">
                 <input

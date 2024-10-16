@@ -10,7 +10,7 @@ export default function Service() {
   return (
     <div className="container px-5 m-auto mt-[150px] md:mb-[150px] grid lg:grid-cols-2 gap-5  ">
       <div className="img ">
-        <img className="mt-5" src={service} alt="" />
+        <img className="mt-5 w-[80%] m-auto" src={service} alt="" />
       </div>
 
       <div className="txt ">
@@ -31,27 +31,23 @@ export default function Service() {
               ordering
             </li>
             <li className="flex gap-4 text-[18px]">
-              <img className="w-[26px] h-[26px]" src={img2} alt="" /> Online
-              ordering
+              <img className="w-[26px] h-[26px]" src={img2} alt="" /> 24/7 Availability
             </li>
             <li className="flex gap-4 text-[18px]">
-              <img className="w-[26px] h-[26px]" src={img3} alt="" /> Online
-              ordering
+              <img className="w-[26px] h-[26px]" src={img3} alt="" />Top Chefs
             </li>
           </ul>
 
           <ul className=" space-y-5 font-semibold">
             <li className="flex gap-4 text-[18px]">
-              <img className="w-[26px] h-[26px]" src={img4} alt="" /> Online
-              ordering
+              <img className="w-[26px] h-[26px]" src={img4} alt="" /> Curated Dining Space
             </li>
             <li className="flex gap-4 text-[18px]">
               <img className="w-[26px] h-[26px]" src={img5} alt="" /> Online
               ordering
             </li>
             <li className="flex gap-4 text-[18px]">
-              <img className="w-[26px] h-[26px]" src={img1} alt="" /> Online
-              ordering
+              <img className="w-[26px] h-[26px]" src={img1} alt="" />Immaculate Kitchens
             </li>
           </ul>
         </div>

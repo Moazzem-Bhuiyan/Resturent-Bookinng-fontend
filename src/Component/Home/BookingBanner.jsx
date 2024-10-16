@@ -13,8 +13,8 @@ export default function BookingBanner() {
     
     <div className='container px-5 m-auto grid lg:grid-cols-3 mt-20 mb-20 '>
 
-      <div className="txt space-y-10 col-span-2">
-        <h1 className='text-5xl font-bold mt-10 '>It's Now Moe Easy to <span className='text-primary'>Booking</span> <br /> by Our Mobile App</h1>
+      <div className="txt space-y-10 col-span-2 md:p-10">
+        <h1 className='text-6xl font-bold mt-10 '>It's Now Moe Easy to <span className='text-primary'>Booking</span> <br /> by Our Mobile App</h1>
         <p className='text-gray-400 '>All you need to do is downlode one of the best delivery apps, make a and most companies <br /> are opting  for mobile app devlopment for food delivery</p>
 
         <div className='flex md:gap-10'>

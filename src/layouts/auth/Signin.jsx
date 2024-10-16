@@ -52,7 +52,7 @@ export default function Signin() {
               Email
             </label>
             <input
-              className="w-full border border-gray-300 rounded-md h-10 px-3 mt-1"
+              className="w-full border border-gray-300 rounded-md h-10 px-3 mt-1 bg-white"
               placeholder="Enter your email or username"
               type="email"
               name="email"
@@ -66,7 +66,7 @@ export default function Signin() {
               Password
             </label>
             <input
-              className="w-full border border-gray-300 rounded-md h-10 px-3 mt-1"
+              className="w-full border border-gray-300 rounded-md h-10 px-3 mt-1  bg-white "
               placeholder="Enter your password"
               type="password"
               name="password"
@@ -77,7 +77,7 @@ export default function Signin() {
 
           <div>
             <input
-              className="w-full cursor-pointer bg-gray-600 text-white py-2 rounded-md hover:bg-gray-700 transition"
+              className="w-full cursor-pointer bg-gray-600 text-white py-2 rounded-md hover:bg-gray-700 transition "
               type="submit"
               value="Sign In"
             />

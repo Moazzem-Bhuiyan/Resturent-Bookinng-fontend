@@ -30,12 +30,12 @@ export default function MyProfileHome() {
    
   }
   return (
-    <div className="grid grid-cols-12 w-[60%] m-auto mt-5">
+    <div className="grid grid-cols-12 w-[60%] m-auto mt-5 ">
       <div className="blank col-span-8 bg-gradient-to-l from-cyan-50 to-blue-50">
         {" "}
       </div>
 
-      <div className="col-span-4 bg-[#758888] h-[calc(100vh-35px)]">
+      <div className="col-span-4 bg-[#758989] h-[calc(100vh-35px)]">
         <ul className="space-y-5 font-semibold mt-48 pl-5 text-white">
           <li>
             <Link to="/profile/personal">

@@ -14,9 +14,10 @@ export default function Navber() {
   const handleLogout = () => {
     logOut()
       .then(() => {
-        navigate("/");
+       
         console.log("log out successful");
         alert("Are You Sure ");
+        navigate("/");
       })
 
       .error((error) => {
@@ -67,7 +68,7 @@ export default function Navber() {
           {link}
         </ul>
       </div>
-      <div className="navbar-end flex gap-3">
+      <div className="navbar-end flex gap-3 ">
         {user ? (
           //--------------------------------------------------------------------------------
 
@@ -91,9 +92,9 @@ export default function Navber() {
                 className="drawer-overlay"
               ></label>
 
-              <ul className="menu bg-base-200 text-base-content min-h-full w-96 p-4">
+              <ul className="menu w-[350px]">
                 {/* Sidebar content here */}
-                <div className="col-span-4 bg-[#758888] h-[calc(100vh-35px)]">
+                <div className="col-span-4 bg-[#758888] h-screen">
                   <div>
                     {user ? (
                       <div className=" flex justify-center mt-10">
@@ -123,7 +124,7 @@ export default function Navber() {
                   <ul className="space-y-5 font-semibold  pl-5 text-white">
                     <li>
                       <Link to="/profile/personal">
-                        <div className="flex gap-4 text-2xl cursor-pointer">
+                        <div className="flex gap-4 text-xl cursor-pointer">
                           <FiUser className="mt-1.5" />
                           Personal details
                         </div>
@@ -131,7 +132,7 @@ export default function Navber() {
                     </li>
                     <li>
                       <Link to="">
-                        <div className="flex gap-4 text-2xl cursor-pointer">
+                        <div className="flex gap-4 text-xl cursor-pointer">
                           <IoBookSharp className="mt-1.5" />
                           Booking History
                         </div>
@@ -139,7 +140,7 @@ export default function Navber() {
                     </li>
                     <li>
                       <Link to="/profile/fvrt">
-                        <div className="flex gap-4 text-2xl cursor-pointer">
+                        <div className="flex gap-4 text-xl cursor-pointer">
                           <FiHeart className="mt-1.5" />
                           Favorite
                         </div>
@@ -147,7 +148,7 @@ export default function Navber() {
                     </li>
                     <li>
                       <Link onClick={handleLogout}>
-                        <div className="flex gap-4 text-2xl cursor-pointer">
+                        <div className="flex gap-4 text-xl cursor-pointer">
                           <FiLogOut className="mt-1.5" />
                           Logout
                         </div>

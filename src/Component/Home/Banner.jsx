@@ -4,8 +4,8 @@ import banner from "../../assets/banner.png";
 export default function Banner() {
   return (
     <div className="grid md:grid-cols-1 lg:grid-cols-2 container px-5 m-auto">
-      <div className="text items-center md:mt-36 mt-10">
-        <h1 className="text-7xl font-semibold mb-10">
+      <div className="text md:mt-40 mt-10 ml-28">
+        <h1 className="text-6xl font-semibold mb-10 ">
           Good <span className="text-primary">Booking </span> Great <br />{" "}
           memories{" "}
         </h1>
@@ -14,18 +14,18 @@ export default function Banner() {
           specific table <br /> location or view{" "}
         </h4>
 
-        <input
+        {/* <input
           className="border-2 bg-white rounded-3xl w-1/2 p-1 mb-5"
           type="search"
           name="search"
           id=""
           placeholder="Search Food 🔍 "
-        />
+        /> */}
       </div>
 
       <div className="img">
         <img
-          className="md:w-[699px] md:h-[699px] flex justify-center -mt-10"
+          className="md:w-[80%] m-auto md:h-auto flex justify-center -mt-10"
           src={banner}
           alt=""
         />

@@ -5,10 +5,10 @@ export default function Sidebar() {
 
   return (
 
-    <div className=' h-[calc(100vh-500px)]'>
+    <div className=' h-[calc(100vh-500px)] p-10'>
 
 
-        <img className='mt-48' src={auth} alt="" />
+        <img className='mt-[300px]' src={auth} alt="" />
     
     
     

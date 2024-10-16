@@ -23,18 +23,19 @@ export default function ExploreRecipe() {
 
       <div className="grid lg:grid-cols-4 gap-10">
         {food.slice(0, slice).map((item) => (
-          <div key={item.id}>
+          <div className="bg-slate-100 rounded-xl " key={item.id}>
             {/* Link to the details page for each food item */}
-            <Link to={`/fooddetails/${item.id}`}>
-              <img className="w-full h-[300px] rounded-2xl" src={item.img} alt={item.name} />
+            <Link className=" space-y-8" to={`/fooddetails/${item.id}`}>
+              <img className="w-full" src={item.img} alt={item.name} />
+             <div className="p-5 space-y-5"> 
               <h1 className="text-3xl font-semibold my-2">{item.name}</h1>
               <h1 className="text-gray-400">{item.description}</h1>
-              <h1 className="text-2xl font-semibold">{"$" + item.price}</h1>
+              <h1 className="text-2xl font-semibold">{"$" + item.price}</h1></div>
             </Link>
 
-            <button className="bg-secondary text-white w-full lg:w-1/2  rounded-3xl px-10 mt-5 py-1.5  hover:bg-slate-600">
+           <div className="p-5"> <button className="bg-secondary text-white w-full lg:w-full  rounded-xl px-10 mt-5 py-1.5  hover:bg-green-700">
               Order Now
-            </button>
+            </button></div>
           </div>
         ))}
       </div>
